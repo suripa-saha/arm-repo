@@ -6,10 +6,10 @@
       "value": "apimpocimport"
     },
     "LinkedTemplatesBaseUrl": {
-      "value": "https://github.com/suripa-saha/arm-repo/blob/master/templates"
+      "value": "https://raw.githubusercontent.com/suripa-saha/arm-repo/master/templates"
     },
     "PolicyXMLBaseUrl": {
-      "value": "https://github.com/suripa-saha/arm-repo/blob/master/policies"
+      "value": "https://raw.githubusercontent.com/suripa-saha/arm-repo/master/policies"
     },
     "NamedValues": {
       "value": {
