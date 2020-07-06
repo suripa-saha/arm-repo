@@ -1,0 +1,8 @@
+{    "sourceApimName": "apimpoc1",
+    "destinationApimName": "apimpocimport",
+    "resourceGroup": "apimpocrg",
+    "fileFolder": "C:/Projects/croma/Azuredevops/APIM-Extract",
+	"linkedTemplatesBaseUrl": "C:/Projects/croma/Azuredevops/APIM-Extract/template",
+	"policyXMLBaseUrl":"C:/Projects/croma/Azuredevops/APIM-Extract/policy",
+    "paramNamedValue": "true"
+}

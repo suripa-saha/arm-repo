@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "ApimServiceName": {
+      "value": "apimpocimport"
+    },
+    "LinkedTemplatesBaseUrl": {
+      "value": "C:/Projects/croma/Azuredevops/APIM-Extract/template"
+    },
+    "PolicyXMLBaseUrl": {
+      "value": "C:/Projects/croma/Azuredevops/APIM-Extract/policy"
+    },
+    "NamedValues": {
+      "value": {
+        "DynamiicURL": "https://a.b.c",
+        "ValidationKey": "ValidationKey"
+      }
+    }
+  },
+  "resources": []
+}
