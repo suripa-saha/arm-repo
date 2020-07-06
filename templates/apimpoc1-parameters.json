@@ -6,10 +6,10 @@
       "value": "apimpocimport"
     },
     "LinkedTemplatesBaseUrl": {
-      "value": "C:/Projects/croma/Azuredevops/APIM-Extract/template"
+      "value": "https://github.com/suripa-saha/arm-repo/blob/master/templates"
     },
     "PolicyXMLBaseUrl": {
-      "value": "C:/Projects/croma/Azuredevops/APIM-Extract/policy"
+      "value": "https://github.com/suripa-saha/arm-repo/blob/master/policies"
     },
     "NamedValues": {
       "value": {
